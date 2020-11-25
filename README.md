@@ -1,14 +1,16 @@
-# In this repository you will find all my notebooks from differentes modules of Alura's 2020 Datascience bootcamp course.
+# CONSIDERATIONS
 
-# In best cases, I should be finishing it around march/2021. 
+### In this repository you will find all my notebooks from differentes modules of Alura's 2020 Datascience bootcamp course.
 
-# All the data that you can find here were taken from TabNet DataSUS open data system (LINK: https://datasus.saude.gov.br/ )
+### In best cases, I should be finishing it around march/2021. 
 
-# I'm doing my best to bring information in a claire way, although I'm just at the beggining of my walk into data science
+### All the data that you can find here were taken from TabNet DataSUS open data system (LINK: https://datasus.saude.gov.br/ )
 
-# These machines reviewed by Alura's student orientation team, and suggested improvements will be properly documented and committed :)
+### I'm doing my best to bring information in a claire way, although I'm just at the beggining of my walk into data science
 
-## DESCRIPTION
+### These machines reviewed by Alura's student orientation team, and suggested improvements will be properly documented and committed :)
+
+# COURSE DESCRIPTION
 Bootcamp course to dive deeply into the Data science world, working with real-context databases and problems.
 
 Preparing data, exploit analyses, working with hypoteses and prooving them.
