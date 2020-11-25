@@ -1,4 +1,4 @@
-# CONSIDERATIONS
+# Some considerations:
 
 ### In this repository you will find all my notebooks from differentes modules of Alura's 2020 Datascience bootcamp course.
 
